@@ -1,2 +1,2 @@
 # C-Dasar
-okeoke
+Start Ur Day With C
